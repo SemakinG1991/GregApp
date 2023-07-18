@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GregApp</string>
+    <string name="hello_gregory">Hello,Gregory!</string>
 </resources>
